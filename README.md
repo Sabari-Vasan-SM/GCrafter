@@ -20,3 +20,9 @@
 ⚙️ Settings Panel
 🔧 Customize simulation parameters, display options, and execution preferences based on your CNC setup.
 
+![Screenshot 2025-04-06 120929](https://github.com/user-attachments/assets/2993f54f-9aac-4d4b-89da-8cabcb4fec8b)
+![Screenshot 2025-04-06 121222](https://github.com/user-attachments/assets/7648c476-b100-4a5d-adf5-d8020f4c8081)
+![Screenshot 2025-04-06 121041](https://github.com/user-attachments/assets/6ad34a10-c162-4c46-892e-c4680006c373)
+![Screenshot 2025-04-06 121105](https://github.com/user-attachments/assets/2dc2ab6e-df57-4b63-a31f-540b672bf15d)
+![Screenshot 2025-04-06 121131](https://github.com/user-attachments/assets/c96ac802-0bfc-4151-b49e-447addf3f8a8)
+![Screenshot 2025-04-06 121157](https://github.com/user-attachments/assets/f51e91c5-16b0-4f14-81d7-7e682ec18f92)
